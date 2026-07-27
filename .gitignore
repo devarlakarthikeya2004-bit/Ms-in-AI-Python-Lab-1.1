@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables (contains API keys)
+.env
+.env.*
+
+# Keep the example environment file
+!.env.example
+
+# VS Code settings
+.vscode/
